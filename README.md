@@ -54,5 +54,14 @@ On the test set, the model returned an accuracy of 85%, the confusion matrix bel
 
 ![image](https://user-images.githubusercontent.com/79603572/148831706-d8ee0ee4-7f5d-4353-8cb1-127436606993.png)
 
+An early stopping procedure was activated after 51 epochs, below lies the model's accuracy (for both training and validation data) by epoch value.
 
+![image](https://user-images.githubusercontent.com/79603572/148831987-de7e61b8-cc57-4aef-ad2b-48464caabfd4.png)
+
+
+### Thank you! Please feel free to connect with me if you would like to discuss this project or anything Data Science related!
+Dillon Medd
+-  [GitHub](https://github.com/dmedd98)
+-  [LinkedIn](https://www.linkedin.com/in/dillon-medd/)
+-  [Email](dillonmedd1@gmail.com)
 
